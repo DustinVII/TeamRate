@@ -1,6 +1,6 @@
 # TeamRate
 
-This is a simple Java application that I decided to build because I have worked on many group projects in school, often in teams with an average of 5 members. The goal is to reduce the number of free riders by providing team members proper feedback during evaluation periods. This application allows team members to evaluate each other and assign grades during or at the end of evaluation periods.
+This is a simple Java application that I decided to build because I have worked on many group projects in school, often in teams with an average of 5 members whereas this application allows team members to evaluate each other and assign grades during or at the end of evaluation periods.
 
 Team members can rate each other, and an average score is calculated from the ratings given by multiple team members. At the end, each team member has an average score based on the feedback received from their teammates. This score can be used as 360-degree feedback for individual improvement.
 
